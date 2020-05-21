@@ -16,14 +16,14 @@ description: >
 hide_description: true
 
 # TODO
-image: /assets/img/blog/hydejack-8.png
+image: /assets/img/about/cartoon-marco.jpg
 ---
 
-The "Best Jekyll Theme by a Mile".
+This isn't a portfolio, this is my life's storio.
 {:.lead}
 
-![Screenshot](assets/img/blog/hydejack-8.png){:.lead srcset="/assets/img/blog/hydejack-8.png 1920w, /assets/img/blog/hydejack-8@0,5x.png 960w, /assets/img/blog/hydejack-8@0,25x.png 480w" data-width="1920" data-height="1080"}
-Hydejack's cover page on a variety of screens.
+![Screenshot](assets/img/about/cartoon-marco.jpg){:.lead srcset="/assets/img/about/cartoon-marco.jpg 1920w, /assets/img/about/cartoon-marco@0,5x.jpg 960w, /assets/img/about/cartoon-marco@0,25x.jpg 480w" data-width="1920" data-height="1080"}
+Artwork by my partner. This is how I look to her as a result of COVID-19 - not my best look.
 {:.figure}
 
 **Hydejack** is your presence on the web. It gives you a *blog* that is suitable for both prose and technical documentation, a *portfolio* to showcase your projects, and a beautiful *resume* template that looks amazing on the web and in print.

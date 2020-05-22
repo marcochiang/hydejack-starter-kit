@@ -1,0 +1,13 @@
+# index page sections
+# custom following lines to edit your index page
+- id: career
+  i18n: nav.career
+  name: Career
+  tpl: career.html
+  css: timeline
+
+- id: projects
+  i18n: nav.projects
+  name: Projects
+  tpl: projects.html
+  css: project

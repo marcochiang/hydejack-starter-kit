@@ -3,7 +3,7 @@
 - name:
     detail: Freelance Product Consultant
   desc:
-    detail: I worked at Company B ...
+    detail: With my recent passion for fitness technology, I was fortunate to have the opportunity to consult for two of my favorite startups - BlackBox VR and Onyx. Here's a link to my write up of how I landed these gigs with no prior domain expertise.
     i18n: company_b_desc
   date:
     detail: Jul. 2019
@@ -12,12 +12,13 @@
     detail: Consultant
     i18n: company_b_job
   icon: fa-user
+  present: true
   
 - name:
     detail: Wedding Dress For Rent
     i18n: wedding dress for rent
   desc:
-    detail: I worked at Company A ...
+    detail: Co-founded a wedding dress rental e-commerce site with my partner.
     i18n: company_a_desc
   date:
     detail: Jul. 2018
@@ -55,7 +56,7 @@
   job:
     detail: Founding Engineer
     i18n: company_b_job
-  icon: fa-briefcase
+  icon: fa-rocket
 
 - name:
     detail: Graduation
@@ -69,4 +70,4 @@
   job:
     detail: Student/Founder
     i18n: company_b_job
-  icon: fa-briefcase
+  icon: fa-graduation-cap

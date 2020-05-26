@@ -1,22 +1,49 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
-# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use javescript to get repo's information all my repos have only one request.
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+# - name: Clairvoydance
+#   i18n: clairvoydance
+#   img: /assets/img/projects/clarvoydancelogo.png
+#   desc: The first Apple Watch game similar to Dance Dance Revolution using Apple Watch's haptic feedback to instruct dance moves.
 
-- name: Google
-  i18n: google
-  url: https://google.com
-  img: /static/assets/img/landing/google.png
-  desc: This is another project.
+- name: The Roomies Skits
+  i18n: the roomies skits
+  url: https://www.facebook.com/theroomiesskits/
+  img: /assets/img/projects/TheRoomiesCover.jpeg
+  desc: Created comedy sketch videos reaching a combined total view of ~70,000 on Facebook.
+
+- name: Intern Project
+  i18n: intern project
+  url: https://www.facebook.com/internproject/
+  img: /assets/img/projects/internprojectlogo.png
+  desc: Served as President for this non-profit organization with a reach of over 6,000 silicon valley interns annually.
+
+- name: Hero Hacks
+  i18n: hero hacks
+  img: /assets/img/projects/herohackslogo.png
+  url: https://www.youtube.com/watch?v=Qvy67rx-7pc
+  desc: Founded a one-time 100 person hackathon of silicon valley's best hackers using wearable technology to build for the future.
+
+- name: Awear
+  i18n: awear
+  url: https://devpost.com/software/awear
+  img: /assets/img/projects/yclogo.png
+  desc: A winning Y Combinator project - thalmic myo band hack to control IoT devices in your home using natural hand/arm gestures.
+
+- name: Gestice
+  i18n: gestice
+  img: /assets/img/projects/gesticelogo.png
+  url: https://www.youtube.com/watch?v=gHsk7c2VLpc
+  desc: A top 10 PennApps hackathon smart watch (Pebble) hack to turn your smart watch into a 2-factor auth device.
+
+- name: Bluff
+  i18n: bluff
+  url: https://devpost.com/software/bluff
+  img: /assets/img/projects/blufflogo.png
+  desc: A top 10 CalTech Hackathon smart watch (Pebble) hack to control IoT devices via smart watch inputs.
+
+- name: Leaf
+  i18n: leaf
+  url: https://ece.umass.edu/news/umass-team-finishes-top-six-yale-hackathon
+  img: /assets/img/projects/getleaflogo.png
+  desc: A top 6 Yale Hackathon smart watch (Pebble) hack that uses handshakes as a way to swap contact information at networking events

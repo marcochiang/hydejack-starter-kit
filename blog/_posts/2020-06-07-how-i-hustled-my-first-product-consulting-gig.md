@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Example Content III
+title: How I Hustled My First Product Consulting Gig
 description: >
   A page showing Hydejack-specific markdown content.
-image: /assets/img/blog/example-content-iii.jpg
 noindex: true
 ---
+
+![Full-width image](/assets/img/blogs/FitnessTechCompetitiveAnalysis.png){:.lead data-width="800" data-height="100"}
 
 Hydejack offers a few additional features to markup your markdown.
 Don't worry, these are merely CSS classes added with kramdown's `{:...}` syntax,

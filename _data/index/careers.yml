@@ -3,7 +3,7 @@
 - name:
     detail: Freelance Product Consultant
   desc:
-    detail: With my recent passion for fitness technology, I was fortunate to have the opportunity to consult for two of my favorite startups - BlackBox VR and Onyx. Here's a link to my write up of how I landed these gigs with no prior domain expertise.
+    detail: With my recent passion for fitness technology, I was fortunate to have the opportunity to consult for two of my favorite startups - BlackBox VR and Onyx.
     i18n: company_b_desc
   date:
     detail: Jul. 2019
@@ -19,6 +19,8 @@
     i18n: wedding dress for rent
   desc:
     detail: Co-founded a wedding dress rental e-commerce site with my partner.
+    url: https://weddingdressforrent.com
+    title: Check it out!
     i18n: company_a_desc
   date:
     detail: Jul. 2018

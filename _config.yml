@@ -69,8 +69,8 @@ copyright:             © 2020. All rights reserved. Marco Chiang
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
-paginate_path:         /page-:num/
+# paginate:              10
+# paginate_path:         /page-:num/
 
 
 # Customizaton

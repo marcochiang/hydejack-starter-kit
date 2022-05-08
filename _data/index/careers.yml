@@ -1,6 +1,22 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
+    detail: Red Door TV
+  desc:
+    detail: Formed a global creative community and launched a YouTube channel after moving 5 creatives into a home in Las Vegas.
+    url: https://reddoortelevision.com
+    title: Learn more
+    i18n: company_b_desc
+  date:
+    detail: Jan. 2021
+    i18n: company_b_date
+  job:
+    detail: Founder
+    i18n: company_b_job
+  icon: fa-youtube
+  present: true
+
+- name:
     detail: Freelance Product Consultant
   desc:
     detail: With my recent passion for fitness technology, I was fortunate to have the opportunity to consult for two of my favorite startups - BlackBox VR and Onyx.
@@ -12,14 +28,13 @@
     detail: Consultant
     i18n: company_b_job
   icon: fa-user
-  present: true
   
 - name:
     detail: Wedding Dress For Rent LLC.
     i18n: wedding dress for rent
   desc:
-    detail: Co-founded a wedding dress rental e-commerce site with my partner.
-    url: https://weddingdressforrent.com
+    detail: Co-founded a wedding dress rental e-commerce site with my partner. [shut down]
+    url: https://www.instagram.com/weddingdressforrentsf/
     title: Check it out!
     i18n: company_a_desc
   date:
@@ -29,7 +44,6 @@
     detail: Co-Founder
     i18n: company_a_job
   icon: fa-shopping-cart
-  present: true
 
 - name:
     detail: Apple Inc.
@@ -43,7 +57,7 @@
   job:
     detail: UI/UX Engineer
     i18n: company_b_job
-  icon: fa-briefcase
+  icon: fa-apple
   present: true
   
 - name:

@@ -14,7 +14,7 @@ image: /assets/img/about/cartoon-marco.jpg
 ---
 
 ![Screenshot](assets/img/about/cartoon-marco.jpg){:.lead srcset="/assets/img/about/cartoon-marco.jpg 1920w, /assets/img/about/cartoon-marco@0,5x.jpg 960w, /assets/img/about/cartoon-marco@0,25x.jpg 480w" data-width="1920" data-height="1080"}
-I look way better in person, I think. Artistic credit - Rae Zhang
+I look way better in person, I think. Artistic credit - Rae Z.
 {:.figure}
 
 ## My Story

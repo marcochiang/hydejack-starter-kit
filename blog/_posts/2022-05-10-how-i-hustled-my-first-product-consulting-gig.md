@@ -30,3 +30,5 @@ Eventually Black Box VR (BBVR), the same masterminds behind bodybuilding.com, in
 Shortly after I started working with BBVR I reached out to Onyx which was one of the companies I was researching from my competitive market analysis. I discovered that the founders and I had a lot of mutual friends and when we got coffee they immediately valued my limited expertise and background, enough to hire me as a consultant. So within a few months of pursuing this journey and absolutely zero experience in the field, I landed two consulting gigs.
 
 It really seems that a combination of passion and hustle are the key ingredients to achieving whatever goals you may have. The hard part is figuring out what it is you are passionate about.
+
+TLDR; the pandemic hit in 2020 and both companies struggled with funding, which is when I decided to pivot and start [Red Door TV](https://reddoortelevision.com) a global creative community.

@@ -11,10 +11,12 @@ slug: Blog
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
   Some topics you'll likely see here:
+  
+  * Case studies of communities and coliving experiences I've curated
 
-  * Turning points in my life
+  * Unique opportunities and projects I've worked on
 
-  * Stories of unlikely achievements
+  * Creator economy advice and discoveries
 
-  * Life advice learned the hard way
+  * Personal tales and adventures
 ---

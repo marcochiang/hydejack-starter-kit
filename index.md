@@ -5,7 +5,7 @@ title: It's-a Me, Marco!
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  I'm a movement artist, creator, and community leader. I value experiences above all else whether it's building products, hosting events, performing, traveling, or bringing people together.
+  I'm an entrepreneur, movement artist, creator, community leader, and I have 8+ years of software engineering experience. If you're here to apply for the 1 month of June 2022 free co-living contest at RDTV click [here](https://forms.gle/VERg2WXZqeMsbfwN6).
 
 # You can show the description on the page by deleting this line:
 # hide_description: true
@@ -13,9 +13,14 @@ description: >
 image: /assets/img/about/cartoon-marco.jpg
 ---
 
-![Screenshot](assets/img/about/cartoon-marco.jpg){:.lead srcset="/assets/img/about/cartoon-marco.jpg 1920w, /assets/img/about/cartoon-marco@0,5x.jpg 960w, /assets/img/about/cartoon-marco@0,25x.jpg 480w" data-width="1920" data-height="1080"}
+![Full-width image](/assets/img/about/rdtvfam.jpg){:.lead data-width="800" data-height="100"}
+<div class="apply">
+  <a class="button" href="https://forms.gle/VERg2WXZqeMsbfwN6">Apply</a>
+</div>
+
+<!-- ![Screenshot](assets/img/about/cartoon-marco.jpg){:.lead srcset="/assets/img/about/cartoon-marco.jpg 1920w, /assets/img/about/cartoon-marco@0,5x.jpg 960w, /assets/img/about/cartoon-marco@0,25x.jpg 480w" data-width="1920" data-height="1080"}
 I look way better in person, I think. Artistic credit - Rae Z.
-{:.figure}
+{:.figure} -->
 
 ## My Story
 From 2014 to 2021 I lived in SF fostering communities in movement, art, and technology. When the pandemic hit, like many, I was lost - especially creatively. I decided I would start a new community of my own. One that would inspire me, keep me accountable, and where I can collaborate with other creatives. My first content house was born (video below).

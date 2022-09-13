@@ -5,7 +5,7 @@ title: It's-a Me, Marco!
 # Write a short (~150 characters) description of each blog post.
 # This description is used to preview the page on search engines, social media, etc.
 description: >
-  I'm an entrepreneur, movement artist, creator, community leader, and I have 8+ years of software engineering experience. If you're here to apply for the 1 month of June 2022 free co-living contest at RDTV click [here](https://forms.gle/VERg2WXZqeMsbfwN6).
+  I'm an entrepreneur, movement artist, creator, community leader, and I have 8+ years of software engineering experience.
 
 # You can show the description on the page by deleting this line:
 # hide_description: true
@@ -13,10 +13,7 @@ description: >
 image: /assets/img/about/cartoon-marco.jpg
 ---
 
-![Full-width image](/assets/img/about/rdtvfam.jpg){:.lead data-width="800" data-height="100"}
-<div class="apply">
-  <a class="button" href="https://forms.gle/VERg2WXZqeMsbfwN6">Apply</a>
-</div>
+![Full-width image](/assets/img/about/pole.jpg){:.lead data-width="800" data-height="100"}
 
 <!-- ![Screenshot](assets/img/about/cartoon-marco.jpg){:.lead srcset="/assets/img/about/cartoon-marco.jpg 1920w, /assets/img/about/cartoon-marco@0,5x.jpg 960w, /assets/img/about/cartoon-marco@0,25x.jpg 480w" data-width="1920" data-height="1080"}
 I look way better in person, I think. Artistic credit - Rae Z.

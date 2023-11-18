@@ -3,10 +3,33 @@ layout: about
 title: Happy Birthday Bree!
 permalink: /bree
 ---
+<head>
+  <style>
+    .quote-container {
+        display: none;
+    }
+    
+    .quote {
+        font-size: 18px;
+        font-style: italic;
+        margin-top: 10px;
+    }
+    
+    .button {
+        padding: 10px 20px;
+        background-color: #4CAF50;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+  </style>
+</head>
 
-
-<button onclick="generateQuote()">Does Marco love you?</button>
-<p id="quote" class="hidden"></p>
+<button style="background-color: pink; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px;"
+ onclick="showRandomQuote()">Does Marco love you?</button>
+<div class="quote-container">
+  <p class="quote" id="quote-text"></p>
+</div>
 
 <script>
   var quotes = [
@@ -16,13 +39,21 @@ permalink: /bree
           "Do you love him? Well then, DUH!! He loves YOUUUUU!!!!",
           "More than he loves shrooms or anything else for that matter.",
           "Marco Chiang loves you so much, so much. SO SO MUCH!",
-          "More than he loves shrooms or anything else for that matter."
+          "More than he loves shrooms or anything else for that matter.",
+          "I can't stop loving you.",
+          "I love you bb.",
+          "Of course, bb - you know I love you.",
+          "Ohhhh behbeh, my buhbuh, I love my bb so much!!!!",
+          "Love? MUCHOS GRANDES LOVEEEEE <3 <3 <3",
+          "I love you and I miss you."
       ];
 
-      function generateQuote() {
-          var quoteElement = document.getElementById("quote");
-          var randomIndex = Math.floor(Math.random() * quotes.length);
-          quoteElement.innerHTML = quotes[randomIndex];
-          quoteElement.classList.remove("hidden");
-      }
+      function showRandomQuote() {
+            var randomIndex = Math.floor(Math.random() * quotes.length);
+            var quoteElement = document.getElementById("quote-text");
+            quoteElement.innerHTML = quotes[randomIndex];
+            
+            var quoteContainer = document.querySelector(".quote-container");
+            quoteContainer.style.display = "block";
+        }
 </script>

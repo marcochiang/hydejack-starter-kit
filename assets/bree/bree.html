@@ -1,0 +1,28 @@
+---
+layout: about
+title: Happy Birthday Bree!
+permalink: /bree
+---
+
+
+<button onclick="generateQuote()">Does Marco love you?</button>
+<p id="quote" class="hidden"></p>
+
+<script>
+  var quotes = [
+          "You bet your sweet ass he does.",
+          "Always and forever, honestly.",
+          "Marco loves Bree so fucking much it hurts.",
+          "Do you love him? Well then, DUH!! He loves YOUUUUU!!!!",
+          "More than he loves shrooms or anything else for that matter.",
+          "Marco Chiang loves you so much, so much. SO SO MUCH!",
+          "More than he loves shrooms or anything else for that matter."
+      ];
+
+      function generateQuote() {
+          var quoteElement = document.getElementById("quote");
+          var randomIndex = Math.floor(Math.random() * quotes.length);
+          quoteElement.innerHTML = quotes[randomIndex];
+          quoteElement.classList.remove("hidden");
+      }
+</script>
